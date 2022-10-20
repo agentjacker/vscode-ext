@@ -816,7 +816,7 @@
     "abi-decoder": "^2.4.0",
     "acorn": "^8.7.1",
     "acorn-walk": "^8.2.0",
-    "astring": "^1.7.5",
+    "astring": "^1.8.3",
     "bip39": "^3.0.1",
     "download": "^7.1.0",
     "fs-extra": "^7.0.1",
